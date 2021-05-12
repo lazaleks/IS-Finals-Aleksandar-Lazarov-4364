@@ -1,0 +1,204 @@
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\appsettings.Development.json
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\appsettings.json
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.exe
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.deps.json
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.runtimeconfig.json
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.runtimeconfig.dev.json
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\ref\midTerm.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.pdb
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\AutoMapper.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.Data.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.Models.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.Services.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.Services.pdb
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.Data.pdb
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\midTerm.Models.pdb
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.csprojAssemblyReference.cache
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.AssemblyInfoInputs.cache
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.AssemblyInfo.cs
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.csproj.CoreCompileInputs.cache
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\staticwebassets\midTerm.StaticWebAssets.Manifest.cache
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\staticwebassets\midTerm.StaticWebAssets.xml
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\scopedcss\bundle\midTerm.styles.css
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.RazorTargetAssemblyInfo.cache
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.csproj.CopyComplete
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.dll
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\ref\midTerm.dll
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.pdb
+C:\repos\uacsIS\midTerm\obj\Debug\net5.0\midTerm.genruntimeconfig.cache
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Humanizer.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\repos\uacsIS\midTerm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\appsettings.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.exe
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.deps.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.runtimeconfig.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.runtimeconfig.dev.json
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\ref\midTerm.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.Data.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.Models.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.Services.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.Services.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.Data.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\bin\Debug\net5.0\midTerm.Models.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.csprojAssemblyReference.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.AssemblyInfoInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.AssemblyInfo.cs
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.csproj.CoreCompileInputs.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\staticwebassets\midTerm.StaticWebAssets.Manifest.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\staticwebassets\midTerm.StaticWebAssets.xml
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\scopedcss\bundle\midTerm.styles.css
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.RazorTargetAssemblyInfo.cache
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.csproj.CopyComplete
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\ref\midTerm.dll
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.pdb
+C:\Users\Bojan Bogdanovski\Downloads\UACS\InternetServices\Exams\New\2_Final\2021\final\midTerm\obj\Debug\net5.0\midTerm.genruntimeconfig.cache
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\appsettings.json
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.exe
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.deps.json
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.runtimeconfig.json
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.runtimeconfig.dev.json
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\ref\midTerm.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.Data.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.Models.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.Services.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.Services.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.Data.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\bin\Debug\net5.0\midTerm.Models.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.csprojAssemblyReference.cache
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.AssemblyInfoInputs.cache
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.AssemblyInfo.cs
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.csproj.CoreCompileInputs.cache
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\staticwebassets\midTerm.StaticWebAssets.Manifest.cache
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\staticwebassets\midTerm.StaticWebAssets.xml
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\scopedcss\bundle\midTerm.styles.css
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.RazorTargetAssemblyInfo.cache
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.csproj.CopyComplete
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\ref\midTerm.dll
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.pdb
+C:\Users\Lazal\Desktop\2021\2021\final\midTerm\obj\Debug\net5.0\midTerm.genruntimeconfig.cache
